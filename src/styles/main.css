@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
+.bgg {
+    background-color: #161616;
+    opacity: 1;
+    background-image: linear-gradient(#404040 1.4000000000000001px, transparent 1.4000000000000001px), linear-gradient(to right, #404040 1.4000000000000001px, #161616 1.4000000000000001px);
+    background-size: 28px 28px;
+    font-family: 'Pathway Gothic One', sans-serif;
+}
